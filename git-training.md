@@ -8,7 +8,7 @@
 3. `git commit -m "练习：第一次提交"`
 4. `git status` 确认干净
 5. `git log` 查看提交记录
-- [ ] 我能独立完成 add / commit
+- [x] 我能独立完成 add / commit
 
 ## Level 2：远程与分支（clone / pull / branch）
 1. 把本仓库推到 GitHub（见 FINISH-GUIDE.md）
